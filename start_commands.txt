@@ -1,15 +1,15 @@
 \*instal next
-
 > npx create-next-app --typescript
 
 \*instal tailwind css
-
 > npminstall -D tailwindcss postcss autoprefixer
 
 \*instal tailwind css
-
 > npm install -D tailwindcss postcss autoprefixer
 
 \*start tailwind css
-
 > npx tailwindcss init -p
+
+
+\*install zustand
+> npm install zustand
