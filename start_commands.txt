@@ -13,3 +13,14 @@
 
 \*install zustand
 > npm install zustand
+
+\*install prisma
+> npm install -D prisma
+> npm prisma init
+> write the schema 
+> npx prisma db push
+
+
+/* install "prisma" extension in VS code 
+
+/* Install MongoDB for VS Code  "MongoDB for VS Code"
