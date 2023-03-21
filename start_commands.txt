@@ -19,8 +19,26 @@
 > npm prisma init
 > write the schema 
 > npx prisma db push
+>npm install @prisma/client
+
+
+
 
 
 /* install "prisma" extension in VS code 
 
 /* Install MongoDB for VS Code  "MongoDB for VS Code"
+
+
+
+/* install bcrypt
+> npm install bcrypt
+> npm install -D @types/bcrypt
+
+
+/* install next-auth
+> npm install next-auth
+> npm install @next-auth/prisma-adapter
+
+
+>npm install swr
