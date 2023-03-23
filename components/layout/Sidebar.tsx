@@ -11,7 +11,7 @@ import SidebarTweetButton from "./SidebarTweetButton";
 
 const Sidebar = () => {
   const { data: currentUser } = useCurrentUser();
-  console.log(currentUser);
+  //console.log(currentUser);
 
   const items = [
     {
