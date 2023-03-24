@@ -52,3 +52,5 @@
 
 
 >npm install date-fns
+
+>npm install react-dropzone
