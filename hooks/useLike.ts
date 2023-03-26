@@ -1,4 +1,4 @@
-/*import axios from "axios";
+import axios from "axios";
 import { useCallback, useMemo } from "react";
 import { toast } from "react-hot-toast";
 
@@ -58,4 +58,3 @@ const useLike = ({ postId, userId }: { postId: string; userId?: string }) => {
 };
 
 export default useLike;
-*/
