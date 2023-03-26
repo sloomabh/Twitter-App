@@ -11,7 +11,6 @@ import SidebarTweetButton from "./SidebarTweetButton";
 
 const Sidebar = () => {
   const { data: currentUser } = useCurrentUser();
-  //console.log(currentUser);
 
   const items = [
     {
@@ -42,7 +41,7 @@ const Sidebar = () => {
           {items.map((item) => (
             <SidebarItem
               key={item.href}
-              // alert={item.alert}
+              alert={item.alert}
               auth={item.auth}
               href={item.href}
               icon={item.icon}

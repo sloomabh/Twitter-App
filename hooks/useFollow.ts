@@ -1,4 +1,4 @@
-/*import axios from "axios";
+import axios from "axios";
 import { useCallback, useMemo } from "react";
 import { toast } from "react-hot-toast";
 
@@ -56,4 +56,3 @@ const useFollow = (userId: string) => {
 };
 
 export default useFollow;
-*/
